@@ -1,3 +1,4 @@
+[![Join the chat at https://gitter.im/yandex/rep]https://badges.gitter.im/Join%20Chat.svg](https://gitter.im/yandex/rep)
 git-push # Reproducible Experiment Platform (REP)
 
 [![Join the chat at https://gitter.im/yandex/rep](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/yandex/rep?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
